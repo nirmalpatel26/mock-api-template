@@ -1,35 +1,153 @@
 {
-    "login":[
-        {
-            "username":"admin",
-            "password":"admin",
-            "id": 1,
-            "email":"admin@gmail.com"
-        },
-         {
-            "username":"nirmal",
-            "password":"nirmal",
-            "id": 2,
-            "email":"nirmal@gmail.com"
-        },
-         {
-            "username":"dhanshree",
-            "password":"dhanshree",
-            "id": 3,
-            "email":"dhanshree@gmail.com"
-        },
-         {
-            "username":"abhijit",
-            "password":"abhijit",
-            "id": 4,
-            "email":"abhijit@gmail.com"
-        },
-        {
-            "username":"khushboo",
-            "password":"khushboo",
-            "id": 4,
-            "email":"khushboo@gmail.com"
-        }
+    "admin":[
+       {
+        "name": "Hampi",
+        "price": 7500,
+        "package": "2 Nights / 3 Days",
+        "category": "Temple",
+        "rating": "8.2/10 Excellent (989 reviews)",
+        "rate": 9.1
+       },{
+        "name": "Mysore",
+        "price": 10000,
+        "package": "3 Nights / 4 Days",
+        "category": "Fort",
+        "rating": "9.2/10 Wonderful (1,009 reviews)",
+        "rate": 9.2
+       },{
+        "name": "Munnar",
+        "price": 23000,
+        "package": "2 Nights / 3 Days",
+        "category": "Hill",
+        "rating": "9.8/10 Wonderful (3,009 reviews)",
+        "rate": 9.8
+       },{
+        "name": "Murudeshwar Temple",
+        "price": 5500,
+        "package": "2 Nights / 3 Days",
+        "category": "Temple",
+        "rating": "7.2/10 Very Good (716 reviews)",
+        "rate": 7.2
+       },{
+        "name": "Mallikarjuna Temple",
+        "price": 16500,
+        "package": "4 Nights / 5 Days",
+        "category": "Temple",
+        "rating": "9.2/10 Wonderful (1,809 reviews)",
+        "rate": 9.2
+       },{
+        "name": "Ooty",
+        "price": 4500,
+        "package": "1 Nights / 2 Days",
+        "category": "Hill",
+        "rating": "6.5/10 Good (569 reviews)",
+        "rate": 6.5
+       },{
+        "name": "Pachmarhi",
+        "price": 7500,
+        "package": "2 Nights / 3 Days",
+        "category": "Hill",
+        "rating": "8.2/10 Excellent (989 reviews)",
+        "rate": 9.1
+       },{
+        "name": "Omkareshwar Temple",
+        "price": 11500,
+        "package": "3 Nights / 4 Days",
+        "category": "Temple",
+        "rating": "9.2/10 Wonderful (1,009 reviews)",
+        "rate": 9.2
+       },{
+        "name": "Kandariya Mahadev Temple",
+        "price": 23000,
+        "package": "2 Nights / 3 Days",
+        "category": "Temple",
+        "rating": "9.8/10 Wonderful (3,009 reviews)",
+        "rate": 9.8
+       },{
+        "name": "Gwalior",
+        "price": 5850,
+        "package": "3 Nights / 4 Days",
+        "category": "Fort",
+        "rating": "7.2/10 Very Good (716 reviews)",
+        "rate": 7.2
+       },{
+        "name": "Calangute Beach",
+        "price": 7500,
+        "package": "2 Nights / 3 Days",
+        "category": "Beach",
+        "rating": "8.2/10 Excellent (989 reviews)",
+        "rate": 9.1
+       },{
+        "name": "Aguada Fort",
+        "price": 11500,
+        "package": "3 Nights / 4 Days",
+        "category": "Fort",
+        "rating": "9.2/10 Wonderful (1,009 reviews)",
+        "rate": 9.2
+       },{
+        "name": "Mangeshi Temple",
+        "price": 23000,
+        "package": "2 Nights / 3 Days",
+        "category": "Temple",
+        "rating": "9.8/10 Wonderful (3,009 reviews)",
+        "rate": 9.8
+       },{
+        "name": "Salaulim Dam",
+        "price": 12000,
+        "package": "2 Nights / 3 Days",
+        "category": "Dam",
+        "rating": "7.2/10 Very Good (716 reviews)",
+        "rate": 7.2
+       },{
+        "name": "Galgibaga Beach",
+        "price": 31000,
+        "package": "3 Nights / 4 Days",
+        "category": "Beach",
+        "rating": "7.2/10 Very Good (716 reviews)",
+        "rate": 7.2
+       },{
+        "name": "Neil Island",
+        "price": 19999,
+        "package": "4 Nights / 5 Days",
+        "category": "Beach",
+        "rating": "9.2/10 Wonderful (1,009 reviews)",
+        "rate": 9.2
+       },{
+        "name": "Cellular Jail",
+        "price": 51000,
+        "package": "4 Nights / 5 Days",
+        "category": "Fort",
+        "rating": "8.4/10 Excellent (469 reviews)",
+        "rate": 8.4
+       },{
+        "name": "Corbyn's Cove",
+        "price": 28999,
+        "package": "6 Nights / 7 Days",
+        "category": "Beach",
+        "rating": "9.2/10 Wonderful (809 reviews)",
+        "rate": 9.2
+       },{
+        "name": "Samudrika Naval Marine Museum",
+        "price": 24057,
+        "package": "6 Nights / 7 Days",
+        "category": "Museum",
+        "rating": "9.2/10 Wonderful (2,009 reviews)",
+        "rate": 9.2
+       },{
+        "name": "Havelock Island (Swaraj Dweep)",
+        "price": 33499,
+        "package": "6 Nights / 7 Days",
+        "category": "Beach",
+        "rating": "9.6/10 Wonderful (602 reviews)",
+        "rate": 9.6
+       },{
+        "name": "Golden Temple",
+        "price": 9999,
+        "package": "2 Nights / 3 Days",
+        "category": "Temple",
+        "rating": "9.8/10 Wonderful (12,000 reviews)",
+        "rate": 9.2
+       }
     ],
 
     "register":[
